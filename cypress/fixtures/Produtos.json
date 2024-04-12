@@ -1,0 +1,30 @@
+[
+    {
+        "nomeProduto": "Tristan Endurance Tank", 
+        "tamanho": "XL",
+        "cor": "Gray",
+        "quantidade": 1
+    },
+
+    {
+        "nomeProduto": "Apollo Running Short", 
+        "tamanho": "36",
+        "cor": "Black",
+        "quantidade": 1
+    },
+
+    
+    {
+        "nomeProduto": "Torque Power Short", 
+        "tamanho": "33",
+        "cor": "Gray",
+        "quantidade": 1
+    },
+
+    {
+        "nomeProduto": "Zeppelin Yoga Pant", 
+        "tamanho": "33",
+        "cor": "Green",
+        "quantidade": 1
+    }
+]
